@@ -1,8 +1,8 @@
-# 🐾 PetGo
+# 🐾 PetsGo
 > *O caminho mais seguro e prático para o bem-estar do seu pet.*
 
 ## Sobre o Projeto
-O **PetGo** é um aplicativo mobile focado na mobilidade e nos cuidados diários de animais de estimação. O projeto conecta tutores a serviços essenciais, como transporte para petshops, clínicas veterinárias e passeios, garantindo que os animais cheguem aos seus destinos com segurança, conforto e praticidade.
+O **PetsGo** é um aplicativo mobile focado na mobilidade e nos cuidados diários de animais de estimação. O projeto conecta tutores a serviços essenciais, como transporte para petshops, clínicas veterinárias e passeios, garantindo que os animais cheguem aos seus destinos com segurança, conforto e praticidade.
 
 ## Funcionalidades
 * Transporte Especializado: Veículos preparados e motoristas treinados para o transporte seguro de pets.
